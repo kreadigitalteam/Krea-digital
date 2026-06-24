@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="absolute top-1/4 -left-16 w-32 h-32 rounded-full glass-sphere animate-float opacity-60" />
       <div className="absolute bottom-1/4 -right-20 w-48 h-48 rounded-full glass-sphere animate-float-delayed opacity-40" />
 
-      <div className="relative w-full max-w-7xl mx-auto px-3 sm:px-6 pt-16 sm:pt-20 pb-0 flex flex-col items-center justify-center min-h-screen">
+      <div className="relative w-full max-w-7xl mx-auto px-3 sm:px-6 pt-24 sm:pt-28 md:pt-32 pb-0 flex flex-col items-center justify-center min-h-screen">
         <div className="glass rounded-2xl sm:rounded-3xl p-5 sm:p-10 md:p-16 max-w-sm sm:max-w-3xl md:max-w-4xl w-full text-center shadow-2xl relative z-10 -mb-6 sm:-mb-8 border border-white/20">
           <p className="text-krea-gold text-xs sm:text-sm font-semibold tracking-[0.3em] uppercase mb-2 sm:mb-3">
             Krea Digital
