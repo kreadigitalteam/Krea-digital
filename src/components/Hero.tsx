@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom'
-import { CONTACT_EMAIL } from '../data/content'
 
 export default function Hero() {
   return (
